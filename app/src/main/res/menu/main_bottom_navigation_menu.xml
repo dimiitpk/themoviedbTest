@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/ic_local_movies_black_24dp"
+        android:id="@+id/menu_nav_movies"
+        android:title="@string/movies" />
+
+    <item
+        android:icon="@drawable/ic_series_black_24dp"
+        android:id="@+id/menu_nav_series"
+        android:title="@string/series" />
+
+    <item
+        android:icon="@drawable/ic_recent_actors_black_24dp"
+        android:id="@+id/menu_nav_actors"
+        android:title="@string/actors" />
+</menu>

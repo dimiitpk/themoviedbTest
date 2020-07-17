@@ -1,0 +1,27 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="md_font_title">@font/chewy</item>
+        <item name="md_font_body">@font/chewy</item>
+        <item name="md_font_button">@font/chewy</item>
+
+        <item name="md_background_color">@color/colorPrimaryDark</item>
+
+        <item name="md_corner_radius">16dp</item>
+
+        <item name="md_color_button_text">@color/colorPrimary</item>
+    </style>
+
+    <style name="CustomTabText" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:fontFamily">@font/chewy</item>
+    </style>
+
+</resources>

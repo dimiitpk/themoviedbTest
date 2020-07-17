@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">themoviedb</string>
+    <string name="text_error">Error</string>
+    <string name="text_success">Success</string>
+    <string name="text_ok">OK</string>
+    <string name="text_cancel">Cancel</string>
+    <string name="text_info">Info</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="text_yes">yes</string>
+    <string name="movies">Movies</string>
+    <string name="series">Series</string>
+    <string name="actors">Actors</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Search</string>
+    <string name="no_more_results">No more results...</string>
+    <string name="select_video">Select video</string>
+    <string name="staring_cast">Staring cast:</string>
+    <string name="seasons">Seasons</string>
+    <string name="overview">Overview</string>
+    <string name="episodes">Episodes</string>
+    <string name="place_of_birth">Place of birth:</string>
+    <string name="known_for">Known for</string>
+    <string name="biography">Biography</string>
+</resources>
